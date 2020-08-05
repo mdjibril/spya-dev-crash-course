@@ -1,0 +1,7 @@
+Friday - 07/08/2020
+
+1-Change the background of the header to #4caf50
+  and the text "GPA Calculator to white"
+
+2- When the web page load it only shows two rows,
+  modify it to show four rows onload
