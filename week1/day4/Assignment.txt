@@ -1,7 +1,14 @@
 Friday - 07/08/2020
 
 1-Change the background of the header to #4caf50
-  and the text "GPA Calculator to white"
+and the text "GPA Calculator to white"
 
-2- When the web page load it only shows two rows,
-  modify it to show four rows onload
+2- When the web page load it only shows two rows
+where we can add course code, unit and grade. 
+modify it to show four rows onload
+
+3- at the bottom of the page where 'mdjibril'
+change it to your name and dont forget to 
+point the link also to your github profile
+if you have one. or you can just go ahead 
+and create one .
